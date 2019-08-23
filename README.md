@@ -6,3 +6,4 @@
  it will calculate the time taken between the two locations. 
  technology-iOS #mapkit , # uipangestures ,# framing cordinates ,# autolayout ,# dates
  
+ #Some of the screenshots.
